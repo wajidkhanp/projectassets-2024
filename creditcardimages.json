@@ -2,7 +2,7 @@
  {
    "id": 1,
    "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-card.png",
-   "caption": "Platinum Card from American Express""
+   "caption": "Platinum Card from American Express"
  },
  {
    "id": 2,
@@ -16,7 +16,7 @@
  },
  {
    "id": 4,
-   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png"",
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png",
    "caption": "American Express® Blue Cash Everyday Card"
  },
  {
@@ -27,7 +27,7 @@
  {
    "id": 6,
    "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-delta-skymiles.png",
-   "caption": "Delta SkyMiles® Platinum American Express Card""
+   "caption": "Delta SkyMiles® Platinum American Express Card"
  },
  {
    "id": 7,
@@ -41,7 +41,7 @@
  },
  {
    "id": 9,
-   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png"",
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png",
    "caption": "Hilton Honors American Express Card"
  }
 ]
