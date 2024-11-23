@@ -1,0 +1,47 @@
+[
+ {
+   "id": 1,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-card.png",
+   "caption": "Platinum Card from American Express""
+ },
+ {
+   "id": 2,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/gold-card.png",
+   "caption": "American Express® Gold Card"
+ },
+ {
+   "id": 3,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-preferred.png",
+   "caption": "American Express® Blue Cash Preferred Card"
+ },
+ {
+   "id": 4,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png"",
+   "caption": "American Express® Blue Cash Everyday Card"
+ },
+ {
+   "id": 5,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/gold-delta-skymiles.png",
+   "caption": "Delta SkyMiles® Gold American Express Card"
+ },
+ {
+   "id": 6,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-delta-skymiles.png",
+   "caption": "Delta SkyMiles® Platinum American Express Card""
+ },
+ {
+   "id": 7,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/marriott-bonvoy-bevy-card.png",
+   "caption": "Marriott Bonvoy Bevy™ American Express® Card"
+ },
+ {
+   "id": 8,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/marriott-bonvoy-brilliant-card.png",
+   "caption": "Marriott Bonvoy Brilliant® American Express® Card"
+ },
+ {
+   "id": 9,
+   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png"",
+   "caption": "Hilton Honors American Express Card"
+ }
+]
